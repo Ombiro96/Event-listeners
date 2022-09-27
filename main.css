@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 3px;
+    border-color: blue;
+    background-color: aquamarine;
+}
+button{
+    height: 40px;
+    width: 60px;
+}
